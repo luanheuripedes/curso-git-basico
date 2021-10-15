@@ -7,6 +7,8 @@ namespace projeto_testeGitHub {
 
             Console.WriteLine("Bom dia!");
 
+            Console.WriteLine("Como você esta hoje?");
+
             Console.ReadLine();
         }
     }
