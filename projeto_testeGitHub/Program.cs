@@ -3,6 +3,7 @@
 namespace projeto_testeGitHub {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine(" ----------------------- ");
             Console.WriteLine("Ola Mundo!");
 
             Console.WriteLine("Bom dia!");
@@ -13,6 +14,9 @@ namespace projeto_testeGitHub {
             Console.WriteLine("Tenha uma boa noite!");
 
             Console.ReadLine();
+            
+            
+            Console.WriteLine(" ----------------------- ");
         }
     }
 }
