@@ -1,0 +1,14 @@
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\bin\Debug\netcoreapp3.1\projeto_testeGitHub.exe
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\bin\Debug\netcoreapp3.1\projeto_testeGitHub.deps.json
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\bin\Debug\netcoreapp3.1\projeto_testeGitHub.runtimeconfig.json
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\bin\Debug\netcoreapp3.1\projeto_testeGitHub.runtimeconfig.dev.json
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\bin\Debug\netcoreapp3.1\projeto_testeGitHub.dll
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\bin\Debug\netcoreapp3.1\projeto_testeGitHub.pdb
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.AssemblyInfoInputs.cache
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.AssemblyInfo.cs
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.dll
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.pdb
+C:\Users\Luan\source\repos\projeto_testeGitHub\projeto_testeGitHub\obj\Debug\netcoreapp3.1\projeto_testeGitHub.genruntimeconfig.cache
